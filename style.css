@@ -1,0 +1,21 @@
+html {
+    max-width: 1200px;
+    margin: 0 auto;
+    
+}
+body {
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+/* Navbar */
+.navbar-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 35px 40px;
+}
+.svg-logo {
+    width: 99px;
+    height: 24px;
+}
